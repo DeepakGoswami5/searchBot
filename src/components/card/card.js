@@ -1,5 +1,5 @@
 import React from 'react';
-import './card.styles.css'
+import './card.css'
 
 const Card = (props) => (
     <div className="card-container">
