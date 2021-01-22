@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DeepakGoswami5/searchBot/static/css/main.8338d8b3.chunk.css",
-    "main.js": "/DeepakGoswami5/searchBot/static/js/main.e5cf749d.chunk.js",
-    "main.js.map": "/DeepakGoswami5/searchBot/static/js/main.e5cf749d.chunk.js.map",
-    "runtime-main.js": "/DeepakGoswami5/searchBot/static/js/runtime-main.133e1dae.js",
-    "runtime-main.js.map": "/DeepakGoswami5/searchBot/static/js/runtime-main.133e1dae.js.map",
-    "static/js/2.001bb2de.chunk.js": "/DeepakGoswami5/searchBot/static/js/2.001bb2de.chunk.js",
-    "static/js/2.001bb2de.chunk.js.map": "/DeepakGoswami5/searchBot/static/js/2.001bb2de.chunk.js.map",
-    "static/js/3.2e158301.chunk.js": "/DeepakGoswami5/searchBot/static/js/3.2e158301.chunk.js",
-    "static/js/3.2e158301.chunk.js.map": "/DeepakGoswami5/searchBot/static/js/3.2e158301.chunk.js.map",
-    "index.html": "/DeepakGoswami5/searchBot/index.html",
-    "static/css/main.8338d8b3.chunk.css.map": "/DeepakGoswami5/searchBot/static/css/main.8338d8b3.chunk.css.map",
-    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/DeepakGoswami5/searchBot/static/js/2.001bb2de.chunk.js.LICENSE.txt"
+    "main.css": "/searchBot/static/css/main.8338d8b3.chunk.css",
+    "main.js": "/searchBot/static/js/main.e5cf749d.chunk.js",
+    "main.js.map": "/searchBot/static/js/main.e5cf749d.chunk.js.map",
+    "runtime-main.js": "/searchBot/static/js/runtime-main.a0ce6f78.js",
+    "runtime-main.js.map": "/searchBot/static/js/runtime-main.a0ce6f78.js.map",
+    "static/js/2.001bb2de.chunk.js": "/searchBot/static/js/2.001bb2de.chunk.js",
+    "static/js/2.001bb2de.chunk.js.map": "/searchBot/static/js/2.001bb2de.chunk.js.map",
+    "static/js/3.2e158301.chunk.js": "/searchBot/static/js/3.2e158301.chunk.js",
+    "static/js/3.2e158301.chunk.js.map": "/searchBot/static/js/3.2e158301.chunk.js.map",
+    "index.html": "/searchBot/index.html",
+    "static/css/main.8338d8b3.chunk.css.map": "/searchBot/static/css/main.8338d8b3.chunk.css.map",
+    "static/js/2.001bb2de.chunk.js.LICENSE.txt": "/searchBot/static/js/2.001bb2de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.133e1dae.js",
+    "static/js/runtime-main.a0ce6f78.js",
     "static/js/2.001bb2de.chunk.js",
     "static/css/main.8338d8b3.chunk.css",
     "static/js/main.e5cf749d.chunk.js"
